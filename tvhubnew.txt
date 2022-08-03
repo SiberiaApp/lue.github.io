@@ -3424,6 +3424,9 @@ CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 TVBS新闻,rtmp://59.124.75.150/sat/tv551
 中视,rtmp://59.124.75.150/sat/tv091
 台视,rtmp://59.124.75.150/sat/tv071
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=1$TVB官网代理
+无线新闻,http://iptv.ye23.win:80/hk/tvb.php?id=1$TVB官网代理
 南海慢直播,https://plwb00.live.weibo.com/alicdn/4798087618889139_wb720avc.m3u8
 台海之声播送频率,https://vd2.bdstatic.com/mda-nh15qb0biuke6tk8/576p/h264/1659412989621254844/mda-nh15qb0biuke6tk8.mp4
 SPAR19直播回放,https://live.video.weibocdn.com/58a77823-6532-4cf1-8b46-eb0eee18734f_index.m3u8?ori=0&ps=4ub7gI97adQ&Expires=1659510294&ssig=NBAPMygmcO&KID=unistore,video
@@ -3478,6 +3481,7 @@ Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
 星空卫视,mitv://ns2.hellotvvod.com:9906/859f6b6d27fd4e44a0c4ab73eed33507
 澳门-MACAU,mitv://ns2.hellotvvod.com:9906/3fbee2e546ef46409ad1318c0a4b6df3
 澳门莲花,mitv://ns2.hellotvvod.com:9906/0d710cc444c14036ac8436a0cec7d670
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=1$TVB官网代理
 无线新闻,http://iptv.ye23.win:80/hk/tvb.php?id=1$TVB官网代理
 明珠台,http://183.239.206.232:9901/tsfile/live/1012_1.m3u8$广东有线
