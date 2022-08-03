@@ -3426,6 +3426,7 @@ TVBS新闻,rtmp://59.124.75.150/sat/tv551
 台视,rtmp://59.124.75.150/sat/tv071
 南海慢直播,https://plwb00.live.weibo.com/alicdn/4798087618889139_wb720avc.m3u8
 台海之声播送频率,https://vd2.bdstatic.com/mda-nh15qb0biuke6tk8/576p/h264/1659412989621254844/mda-nh15qb0biuke6tk8.mp4
+SPAR19直播回放,https://live.video.weibocdn.com/58a77823-6532-4cf1-8b46-eb0eee18734f_index.m3u8?ori=0&ps=4ub7gI97adQ&Expires=1659510294&ssig=NBAPMygmcO&KID=unistore,video
 五星红旗飘动视频,https://vd2.bdstatic.com/mda-kj0x1cr6k1vi4wj7/hd/mda-kj0x1cr6k1vi4wj7.mp4
 烎!烎!烎!,https://vd3.bdstatic.com/mda-nc56rvn7w2wa6wc1/1080p/cae_h264_delogo/1646542311027479340/mda-nc56rvn7w2wa6wc1.mp4
 严阵以待 听令而战,https://vd4.bdstatic.com/mda-nh0gm0nrb30qmetm/1080p/cae_h264/1659354696693643948/mda-nh0gm0nrb30qmetm.mp4
