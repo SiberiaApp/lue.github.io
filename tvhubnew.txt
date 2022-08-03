@@ -3444,6 +3444,7 @@ SPAR19直播回放,https://live.video.weibocdn.com/58a77823-6532-4cf1-8b46-eb0ee
 57爆新闻220802,https://tv2.5dxr.xyz/20220802/t1i03JId/hls/index.m3u8
 国民大会220802,https://tv2.5dxr.xyz/20220802/4SGyCtZu/hls/index.m3u8
 新闻大白话22082,https://tv2.5dxr.xyz/20220802/R3z7xtTk/hls/index.m3u8
+演习区域及对比,https://vd2.bdstatic.com/mda-nh242tcjr9jhmyst/1080p/cae_h264/1659505605042333007/mda-nh242tcjr9jhmyst.mp4
 
 测试频道,#genre#
 翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
