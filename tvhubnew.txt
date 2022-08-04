@@ -3556,10 +3556,17 @@ SPAR19直播回放,https://live.video.weibocdn.com/58a77823-6532-4cf1-8b46-eb0ee
 正常发挥220802,https://tv2.5dxr.xyz/20220803/LqJDsiDn/hls/index.m3u8
 57爆新闻220802,https://tv2.5dxr.xyz/20220802/t1i03JId/hls/index.m3u8
 国民大会220802,https://tv2.5dxr.xyz/20220802/4SGyCtZu/hls/index.m3u8
-新闻大白话22082,https://tv2.5dxr.xyz/20220802/R3z7xtTk/hls/index.m3u8
+新闻大白话220802,https://tv2.5dxr.xyz/20220802/R3z7xtTk/hls/index.m3u8
 演习区域及对比,https://vd2.bdstatic.com/mda-nh242tcjr9jhmyst/1080p/cae_h264/1659505605042333007/mda-nh242tcjr9jhmyst.mp4
 太阳照常升起,https://vd2.bdstatic.com/mda-mgw4wvqx77dqr5su/1080p/cae_h264/1627704898105242862/mda-mgw4wvqx77dqr5su.mp4
 儿子我是你爸爸,https://vd2.bdstatic.com/mda-ieat0bzgtiufe5dg/sc/mda-ieat0bzgtiufe5dg.mp4
+TVBS,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
+TVBS新闻台,mitv://fccs.word-tv.com:9906/6254121e00022e5c0955285ee55f9ec4
+台视,mitv://fccs.word-tv.com:9906/6257e8850006de950e0e6636ac2abe87
+中视,mitv://fccs.word-tv.com:9906/6257e968000a66d90e11ddd52825327a
+华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
+中天新闻台,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
+民视新闻台,mitv://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
 
 测试频道,#genre#
 凤凰电影,P2p://ns2.hellotvvod.com:9906/797091de3e8d4b059e7c8bc3d8c3b611
