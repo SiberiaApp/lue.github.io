@@ -3503,96 +3503,64 @@ B站直播英文流,http://zzy789.xyz/bili.php?id=22965503
 翡翠台,http://113.64.147.186:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.230:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.236:808/hls/67/index.m3u8
-翡翠台,http://120.84.96.222:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.221:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.196:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.224:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.225:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.225:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.228:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.232:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.75:808/hls/25/index.m3u8
-翡翠台,http://120.84.96.76:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.50:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.55:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.61:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.62:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.63:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.65:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.66:808/hls/25/index.m3u8
+翡翠台,http://120.84.96.158:808/hls/25/index.m3u8
 翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
 无线新闻,http://9.zhxinda.xyz/newss.php?id=1$官网代理
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
 无线财经,http://9.zhxinda.xyz/newss.php?id=2$官网代理
-无线财经,mitv://45.92.126.18:9906/62595c1a000d108b13b9e5d4f3816d5e
+无线财经,http://120.84.96.50:808/hls/86/index.m3u8
+无线财经,http://120.84.96.55:808/hls/86/index.m3u8
+无线财经,http://120.84.96.61:808/hls/86/index.m3u8
+无线财经,http://120.84.96.62:808/hls/86/index.m3u8
+无线财经,http://120.84.96.63:808/hls/86/index.m3u8
+无线财经,http://120.84.96.65:808/hls/86/index.m3u8
+无线财经,http://120.84.96.66:808/hls/86/index.m3u8
+无线财经,http://120.84.96.158:808/hls/86/index.m3u8
 
-J2,http://120.84.96.222:808/hls/86/index.m3u8
-J2,http://120.84.96.221:808/hls/86/index.m3u8
-J2,http://120.84.96.196:808/hls/86/index.m3u8
-J2,http://120.84.96.195:808/hls/86/index.m3u8
-J2,http://120.84.96.224:808/hls/86/index.m3u8
-J2,http://120.84.96.225:808/hls/86/index.m3u8
-J2,http://120.84.96.226:808/hls/86/index.m3u8
-J2,http://120.84.96.228:808/hls/86/index.m3u8
-J2,http://120.84.96.232:808/hls/86/index.m3u8
-J2,http://120.84.96.69:808/hls/86/index.m3u8
-J2,http://120.84.96.75:808/hls/86/index.m3u8
-J2,http://120.84.96.76:808/hls/86/index.m3u8
-J2,http://diyp-diyp.tk/xyoutube.php?id=74&p=0&c=3$西瓜代理
-J2,https://j3.lhlh.app/mv.m3u8
+TVB星河,http://113.64.147.13:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.16:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.20:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.23:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.69:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.76:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.82:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.84:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.91:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.99:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.127:808/hls/135/index.m3u8
 TVB星河,http://113.64.147.139:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.145:808/hls/135/index.m3u8
-TVB星河,http://diyp-diyp.tk/xyoutube.php?id=76&p=0&c=3$西瓜代理
-TVB星河,http://113.64.147.148:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.158:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.165:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.193:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.201:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.238:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.118:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.132:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.63:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.160:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.72:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.66:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.4:808/hls/135/index.m3u8
-TVB星河,http://113.64.147.58:808/hls/135/index.m3u8
-明珠台,http://113.64.147.9:808/hls/26/index.m3u8
-明珠台,http://113.64.147.25:808/hls/26/index.m3u8
-明珠台,http://113.64.147.40:808/hls/26/index.m3u8
-明珠台,http://113.64.147.23:808/hls/26/index.m3u8
-明珠台,http://113.64.147.27:808/hls/26/index.m3u8
-明珠台,http://113.64.147.49:808/hls/26/index.m3u8
-明珠台,http://113.64.147.86:808/hls/26/index.m3u8
-明珠台,http://113.64.147.93:808/hls/26/index.m3u8
-明珠台,http://113.64.147.112:808/hls/26/index.m3u8
-明珠台,http://113.64.147.128:808/hls/26/index.m3u8
-明珠台,http://113.64.147.129:808/hls/26/index.m3u8
-明珠台,http://113.64.147.137:808/hls/26/index.m3u8
-明珠台,http://113.64.147.146:808/hls/26/index.m3u8
-明珠台,http://113.64.147.161:808/hls/26/index.m3u8
-明珠台,http://113.64.147.159:808/hls/26/index.m3u8
-明珠台,http://113.64.147.126:808/hls/26/index.m3u8
-明珠台,http://113.64.147.179:808/hls/26/index.m3u8
-明珠台,http://113.64.147.180:808/hls/26/index.m3u8
-明珠台,http://113.64.147.183:808/hls/26/index.m3u8
-明珠台,http://113.64.147.184:808/hls/26/index.m3u8
-明珠台,http://113.64.147.192:808/hls/26/index.m3u8
-明珠台,http://113.64.147.195:808/hls/26/index.m3u8
-明珠台,http://113.64.147.197:808/hls/26/index.m3u8
-明珠台,http://113.64.147.205:808/hls/26/index.m3u8
-明珠台,http://113.64.147.209:808/hls/26/index.m3u8
-明珠台,http://113.64.147.211:808/hls/26/index.m3u8
-明珠台,http://113.64.147.212:808/hls/26/index.m3u8
-明珠台,http://113.64.147.216:808/hls/26/index.m3u8
-明珠台,http://113.64.147.228:808/hls/26/index.m3u8
-明珠台,http://113.64.147.231:808/hls/26/index.m3u8
-明珠台,http://113.64.147.246:808/hls/26/index.m3u8
-明珠台,http://113.64.147.109:808/hls/26/index.m3u8
-明珠台,http://113.64.147.62:808/hls/26/index.m3u8
-明珠台,http://113.64.147.16:808/hls/26/index.m3u8
-明珠台,http://113.64.147.245:808/hls/26/index.m3u8
+TVB星河,http://113.64.147.152:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.171:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.180:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.186:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.230:808/hls/135/index.m3u8
+TVB星河,http://113.64.147.236:808/hls/135/index.m3u8
 明珠台,http://113.64.147.13:808/hls/26/index.m3u8
-明珠台,http://113.64.147.35:808/hls/26/index.m3u8
-明珠台,http://113.64.147.57:808/hls/26/index.m3u8
+明珠台,http://113.64.147.16:808/hls/26/index.m3u8
+明珠台,http://113.64.147.20:808/hls/26/index.m3u8
+明珠台,http://113.64.147.23:808/hls/26/index.m3u8
+明珠台,http://113.64.147.69:808/hls/26/index.m3u8
+明珠台,http://113.64.147.76:808/hls/26/index.m3u8
+明珠台,http://113.64.147.82:808/hls/26/index.m3u8
+明珠台,http://113.64.147.84:808/hls/26/index.m3u8
+明珠台,http://113.64.147.91:808/hls/26/index.m3u8
+明珠台,http://113.64.147.99:808/hls/26/index.m3u8
+明珠台,http://113.64.147.127:808/hls/26/index.m3u8
 明珠台,http://113.64.147.139:808/hls/26/index.m3u8
+明珠台,http://113.64.147.152:808/hls/26/index.m3u8
+明珠台,http://113.64.147.171:808/hls/26/index.m3u8
+明珠台,http://113.64.147.180:808/hls/26/index.m3u8
+明珠台,http://113.64.147.186:808/hls/26/index.m3u8
+明珠台,http://113.64.147.230:808/hls/26/index.m3u8
+明珠台,http://113.64.147.236:808/hls/26/index.m3u8
 
 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
@@ -3600,55 +3568,32 @@ TVB星河,http://113.64.147.58:808/hls/135/index.m3u8
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-星空卫视,http://120.84.96.222:808/hls/79/index.m3u8
-星空卫视,mitv://fccs.word-tv.com:9906/626b5ba2000298700c0cf2c141db6327
-星空卫视,http://120.84.96.221:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.196:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.195:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.224:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.225:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.226:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.228:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.232:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.69:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.75:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.76:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.50:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.55:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.61:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.62:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.63:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.65:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.66:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.158:808/hls/79/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港电台32,http://diyp-diyp.tk/xyoutube.php?id=97&p=0&c=3
-香港电台31,http://diyp-diyp.tk/xyoutube.php?id=96&p=0&c=3
-东森电影,http://113.64.147.7:808/hls/58/index.m3u8
-东森电影,http://120.84.96.75:808/hls/32/index.m3u8
-东森电影,http://120.84.96.222:808/hls/32/index.m3u8
-东森电影,http://120.84.96.221:808/hls/32/index.m3u8
-东森电影,http://120.84.96.196:808/hls/32/index.m3u8
-东森电影,http://120.84.96.195:808/hls/32/index.m3u8
-东森电影,http://120.84.96.224:808/hls/32/index.m3u8
-东森电影,http://120.84.96.225:808/hls/32/index.m3u8
-东森电影,http://120.84.96.226:808/hls/32/index.m3u8
-东森电影,http://120.84.96.228:808/hls/32/index.m3u8
-东森电影,http://120.84.96.232:808/hls/32/index.m3u8
-东森电影,http://120.84.96.69:808/hls/32/index.m3u8
-东森电影,http://120.84.96.76:808/hls/32/index.m3u8
-东森电影,http://113.64.147.15:808/hls/58/index.m3u8
-东森电影,http://113.64.147.131:808/hls/58/index.m3u8
-东森电影,http://113.64.147.153:808/hls/58/index.m3u8
+东森电影,http://120.84.96.50:808/hls/32/index.m3u8
+东森电影,http://120.84.96.55:808/hls/32/index.m3u8
+东森电影,http://120.84.96.61:808/hls/32/index.m3u8
+东森电影,http://120.84.96.62:808/hls/32/index.m3u8
+东森电影,http://120.84.96.63:808/hls/32/index.m3u8
+东森电影,http://120.84.96.65:808/hls/32/index.m3u8
+东森电影,http://120.84.96.66:808/hls/32/index.m3u8
+东森电影,http://120.84.96.158:808/hls/32/index.m3u8
 
-东森洋片,http://113.64.147.7:808/hls/59/index.m3u8
-东森洋片,http://120.84.96.75:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.222:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.221:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.196:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.195:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.224:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.225:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.226:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.228:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.233:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.69:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.76:808/hls/33/index.m3u8
-东森洋片,http://113.64.147.15:808/hls/59/index.m3u8
-东森洋片,http://113.64.147.131:808/hls/59/index.m3u8
-东森洋片,http://113.64.147.153:808/hls/59/index.m3u8
+东森洋片,http://120.84.96.50:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.55:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.61:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.62:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.63:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.65:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.66:808/hls/33/index.m3u8
+东森洋片,http://120.84.96.158:808/hls/33/index.m3u8
 
 ABC News,http://diyp-diyp.tk/youtube.php?id=w_Ma8oQLmSM
 Sky News,http://diyp-diyp.tk/youtube.php?id=WLlKVD4Aqgw
@@ -3795,87 +3740,6 @@ VTV9,https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u
 国家地理,https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 探索,http://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 探索亚洲,http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-sbs,mitv://fccs.word-tv.com:9906/626b614c000404ac0c23132e23ac6367
-mbc,mitv://fccs.word-tv.com:9906/626b61a8000c30850c247ca5b35e020f
-tvn,mitv://fccs.word-tv.com:9906/626b61e5000831810c2569e731f0dffc
-JTBC,mitv://fccs.word-tv.com:9906/626b621a00034fb20c2637af441b9eed
-JTBC_GOLF,mitv://fccs.word-tv.com:9906/626b622e000b83760c2687e9743aafcc
-Mnet,mitv://fccs.word-tv.com:9906/626b62760007538f0c27a0176a4708f2
-inet,mitv://fccs.word-tv.com:9906/626b62aa000376240c286a394144fa67
-mbc sports,mitv://fccs.word-tv.com:9906/626b62d2000c2a870c2908b476057e9b
-kbs1,mitv://fccs.word-tv.com:9906/626b63d50001600c0c2cf9a9c22671ac
-kbs2 ,mitv://fccs.word-tv.com:9906/626b6b2a0004a5a20c499e87a5dddfc1
-kbsdram,mitv://fccs.word-tv.com:9906/626b6b0c000c97e10c492b60c9e6b665
-YTN,mitv://fccs.word-tv.com:9906/626b6b3f000bbb6f0c49f25f76d0e7ae
-SPO TV ,mitv://fccs.word-tv.com:9906/626b6b70000f323d0c4ab2aafbabb633
-SPO TV2 ,mitv://fccs.word-tv.com:9906/626b6b8d0005f70d0c4b21950a3625f2
-OCN ,mitv://fccs.word-tv.com:9906/626b6ba1000a9f060c4b70e76cf38c79
-cgv,mitv://fccs.word-tv.com:9906/626b6c930002c9c80c4f2035de97b6c4
-mbn ,mitv://fccs.word-tv.com:9906/626b6ca3000601660c4f5f88ee8aa471
-kbsjoy ,mitv://fccs.word-tv.com:9906/626b6cc6000e76740c4fea6afb20cdaa
-NHK-G综合台,mitv://fccs.word-tv.com:9906/6263af600003da7a0818890d1c4df804
-NHK-E教育,mitv://fccs.word-tv.com:9906/6263b02b00030580081ba1ce1d98224d
-TBS,mitv://fccs.word-tv.com:9906/6263b06e0008704e081ca8e99ff0f421
-フジテレビ,mitv://fccs.word-tv.com:9906/6263b26a000a9460082469d6539eed10
-テレビ东京,mitv://fccs.word-tv.com:9906/6263b26a000a9460082469d6539eed10
-日本テレビ,mitv://fccs.word-tv.com:9906/6263b2bc000763bd0825a955be8e315c
-ABC朝日,mitv://fccs.word-tv.com:9906/6263b2d700079f90082612dc1ea0923e
-テレビ大阪,mitv://fccs.word-tv.com:9906/6263b2f200011c5808267aa931edbb62
-鉄道チャンネル,mitv://fccs.word-tv.com:9906/6263b67f0006730608345acf30c8550b
-NEWS24,mitv://fccs.word-tv.com:9906/6263b69c000b1bc60834cd481bfab74d
-FIGHTING TV サムライ,mitv://fccs.word-tv.com:9906/6263b6c1000aa98708355db3962f617a
-アニマルプラネット,mitv://fccs.word-tv.com:9906/6263b9e4000d471308419f16f8b7ecbf
-Disney XD Japan,mitv://fccs.word-tv.com:9906/6263b9ff000f138308420904b67dc9ce
-スターチャンネル１,mitv://fccs.word-tv.com:9906/6263ba1c000df48208427a039443a422
-スターチャンネル２,mitv://fccs.word-tv.com:9906/6263ba35000a41f60842dab86eb1b1b8
-スターチャンネル３,mitv://fccs.word-tv.com:9906/6263ba4f0003ee8408433eaabfc2d499
-スーパー！ドラマＴＶ ＨＤ,mitv://fccs.word-tv.com:9906/6263ba6900036e2f0843a419383e71a9
-MONDO TV HD,mitv://fccs.word-tv.com:9906/6263ba8300099b9908440b3e8caee3c6
-ゴルフネットワークHD,mitv://fccs.word-tv.com:9906/6263ba9c00019bed08446ada9642a1e6
-ＢＢＣワールドニュース,mitv://fccs.word-tv.com:9906/6263bab7000419620844d4f5cc04e408
-CNN/US HD,mitv://fccs.word-tv.com:9906/6263bad6000dd02508455089ee82ea3f
-Music Japan TV HD,mitv://fccs.word-tv.com:9906/6263f32800006cf109214d6c10abb241
-MTV HD,mitv://fccs.word-tv.com:9906/6263f34d000cbe8d0921e11bcd9ae757
-MUSIC ON! TV,mitv://fccs.word-tv.com:9906/6263f37d000ec3d409229d2010e7fb4c
-ヒストリーチャンネル™ HD,mitv://fccs.word-tv.com:9906/6263f3990008aff5092308f256029678
-ＡＸＮ ＨＤ 海外ドラマ,mitv://fccs.word-tv.com:9906/6263f3b6000f0e4c09237bdb1b1a9c7d
-AXNミステリー HD,mitv://fccs.word-tv.com:9906/6263f3d70005b5990923fa5e060ad42f
-ナショナル ジオグラフィック チャンネル HD,mitv://fccs.word-tv.com:9906/6263f3f500069e6a09246fca711384a1
-ＫＢＳ Ｗｏｒｌｄ ＨＤ,mitv://fccs.word-tv.com:9906/6263f44500038e930925a7810bee53ab
-FOX HD,mitv://fccs.word-tv.com:9906/6263f45f000de69509260fb755770301
-東映チャンネルＨＤ,mitv://fccs.word-tv.com:9906/6263f47f0001202009268972cfb9e898
-ムービープラスＨＤ,mitv://fccs.word-tv.com:9906/6263f4b800057420092769360e24cba9
-日テレG+ HD,mitv://fccs.word-tv.com:9906/6263f4d5000d11ea0927dc71009a8ac3
-衛星劇場ＨＤ,mitv://fccs.word-tv.com:9906/6263f52a000e40e2092928c6650161b1
-ＧＡOＲＡ　ＨＤ,mitv://fccs.word-tv.com:9906/6263f545000766f10929907dd1979bf7
-ザ・シネマＨＤ,mitv://fccs.word-tv.com:9906/6263f56000078dbb0929f9ff860b259b
-スカイ・A sports＋ ＨＤ,mitv://fccs.word-tv.com:9906/6263f57a00058727092a5f0b06915664
-ディスカバリーチャンネル,mitv://fccs.word-tv.com:9906/6263f59400004a6f092ac3438bc45750
-旅チャンネルＨＤ,mitv://fccs.word-tv.com:9906/6264ce480003e4670c79434fc22710ba
-釣りビジョンＨＤ,mitv://fccs.word-tv.com:9906/626939f40003d6dc03b96362a9cd7a6d
-ＷＯＷＯＷシネマ,mitv://fccs.word-tv.com:9906/62693a1b00002b2403b9faca61c33fc1
-ＷＯＷＯＷライブ,mitv://fccs.word-tv.com:9906/62693a4800068b0e03baac33be46cd78
-ＷＯＷＯＷプライム,mitv://fccs.word-tv.com:9906/62693a6d0009811603bb3d7db01e6f0c
-テレ朝チャンネル１,mitv://fccs.word-tv.com:9906/62693aae0004970d03bc3a23d2d0ccad
-テレ朝チャンネル２,mitv://fccs.word-tv.com:9906/62693a8e0006364a03bbbd8edca52fd5
-ミュージック・エア,mitv://fccs.word-tv.com:9906/62693ad5000cbca703bcd4918f30a1b1
-ＴＢＳチャンネル１,mitv://fccs.word-tv.com:9906/62693af500075f4303bd5032116ff95f
-銀河,mitv://fccs.word-tv.com:9906/62693b1c00033d9303bde77bad287aef
-フジテレビＮＥＸＴ,mitv://fccs.word-tv.com:9906/62693b410002191603be77b893b12387
-フジテレビＯＮＥ,mitv://fccs.word-tv.com:9906/62693b76000b4fb203bf491c95a2f04d
-フジテレビＴＷＯ,mitv://fccs.word-tv.com:9906/62693b92000ee9b803bfb7682964be08
-J SPORTS 1,mitv://fccs.word-tv.com:9906/62693bb8000a631203c04aaf37cd8e88
-J SPORTS 2,mitv://fccs.word-tv.com:9906/62693bdb0004012003c0d1c50f9e8e29
-J SPORTS 3,mitv://fccs.word-tv.com:9906/62693bfe00003b9903c15986a1340f94
-J SPORTS 4,mitv://fccs.word-tv.com:9906/62693c20000c2a0c03c1e164c32f251c
-NHKBS1,mitv://fccs.word-tv.com:9906/62693c72000aa5af03c321500546bab5
-NHK BS Premium,mitv://fccs.word-tv.com:9906/62693c9500057b0703c3a8b6296d58a1
-BS日テレ,mitv://fccs.word-tv.com:9906/62693cbc000029a203c43fb142c01cdb
-BS朝日,mitv://fccs.word-tv.com:9906/62693cde00029e3403c4c5229e92b136
-BS-TBS,mitv://fccs.word-tv.com:9906/62693d2a000f275003c5f138e225dd0f
-BSテレ東,mitv://fccs.word-tv.com:9906/62693d4d000ebdaa03c679d5761b2308
-BS Sky PerfecTV!,mitv://fccs.word-tv.com:9906/62693d6e000a42ef03c6f9979f2a03e8
-BS 11,mitv://fccs.word-tv.com:9906/62693d9b000d0b7b03c7aa15a4867b48
 5AAB TV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 Amazing Discoveries TV,https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 Salt + Light Television,https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
@@ -3932,11 +3796,6 @@ Stingray Urban Beat,https://ott-linear-channels.stingray.com/v1/master/734895816
 这是TVHub测试场,https://vd2.bdstatic.com/mda-nfinxs9tudqm9fi0/1080p/cae_h264/1655655940993023377/mda-nfinxs9tudqm9fi0.mp4
 无实际用处,https://vd2.bdstatic.com/mda-nfinxs9tudqm9fi0/1080p/cae_h264/1655655940993023377/mda-nfinxs9tudqm9fi0.mp4
 广场舞测试1,https://vd4.bdstatic.com/mda-nf1y9p51adrm7mew/1080p/cae_h264/1654234039194681706/mda-nf1y9p51adrm7mew.mp4
-电视剧测试1,https://vd3.bdstatic.com/mda-mgmnrvwbxaccusf6/1080p/hksr/1638432305/mda-mgmnrvwbxaccusf6.mp4
-每经AI电视测试,http://aitv.nbd.com.cn/live/aitv_live.m3u8
-无线财经,mitv://45.92.126.18:9906/62595c1a000d108b13b9e5d4f3816d5e$测试晴天源
-CCTV4,http://112.74.200.9:88/tv000000/m3u8.php?/migu/63178042120220815027$测试咪咕代理
-北京IPTV4K超清,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 保持理智,https://aowu.sharepoint.cn/sites/cnoW/_layouts/15/download.aspx?UniqueId=0bc8dbef-06d1-4301-8883-dbce42727888&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYW93dS5zaGFyZXBvaW50LmNuQDE3MGE2Y2M3LWJkZTctNGJjNy04N2IwLWMxZjFkZDA0NDg4ZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NjczNTU4NDAiLCJleHAiOiIxNjY3MzU5NDQwIiwiZW5kcG9pbnR1cmwiOiJmdDVnV0tMOWc5dGhNWEdYd3l0ZWZYWWFxbUtNWkdkWHpxdjNieDJ3cjZRPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTI1IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOemd3WTJGbFpUa3RaV1JrT1MwME5EVmtMVGt5WWpZdFpEazJZMk0zWVRZME5XSXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTUdabU5XVTVaRGN0Tm1GaE9TMDBOV1UzTFdFeU56SXROREUyTmpnME0yUmtabUV3IiwiYXBwX2Rpc3BsYXluYW1lIjoiemZpbGUiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiI0YTcyZDkyNy0xOTA3LTQ4OGQtOWViMi0xYjQ2NWM1M2MxYzUiLCJ0aWQiOiIxNzBhNmNjNy1iZGU3LTRiYzctODdiMC1jMWYxZGQwNDQ4OGQiLCJ1cG4iOiJjMTIzQHBhb2x1LnNpdGUiLCJwdWlkIjoiMTAwMzMyMzBDNjVENEMzRSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMzMjMwYzY1ZDRjM2VAbGl2ZS5jb20iLCJzY3AiOiJhbGxmaWxlcy53cml0ZSBhbGxzaXRlcy5yZWFkIGFsbHNpdGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsLCJpcGFkZHIiOiI0MC43Mi43NC4xOTIifQ.UVk4MlFLYjFVOUpGT3VCOEJyUnRJUnBOYnhHeWJPSGJJMnhiM1duK2drWT0&ApiVersion=2.0
 
 重要通知,#genre#
