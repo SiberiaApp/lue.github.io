@@ -3873,6 +3873,7 @@ Stingray Urban Beat,https://ott-linear-channels.stingray.com/v1/master/734895816
 无线财经,mitv://45.92.126.18:9906/62595c1a000d108b13b9e5d4f3816d5e$测试晴天源
 CCTV4,http://112.74.200.9:88/tv000000/m3u8.php?/migu/63178042120220815027$测试咪咕代理
 北京IPTV4K超清,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+保持理智,https://aowu.sharepoint.cn/sites/cnoW/_layouts/15/download.aspx?UniqueId=0bc8dbef-06d1-4301-8883-dbce42727888&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYW93dS5zaGFyZXBvaW50LmNuQDE3MGE2Y2M3LWJkZTctNGJjNy04N2IwLWMxZjFkZDA0NDg4ZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NjczNTU4NDAiLCJleHAiOiIxNjY3MzU5NDQwIiwiZW5kcG9pbnR1cmwiOiJmdDVnV0tMOWc5dGhNWEdYd3l0ZWZYWWFxbUtNWkdkWHpxdjNieDJ3cjZRPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTI1IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOemd3WTJGbFpUa3RaV1JrT1MwME5EVmtMVGt5WWpZdFpEazJZMk0zWVRZME5XSXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTUdabU5XVTVaRGN0Tm1GaE9TMDBOV1UzTFdFeU56SXROREUyTmpnME0yUmtabUV3IiwiYXBwX2Rpc3BsYXluYW1lIjoiemZpbGUiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiI0YTcyZDkyNy0xOTA3LTQ4OGQtOWViMi0xYjQ2NWM1M2MxYzUiLCJ0aWQiOiIxNzBhNmNjNy1iZGU3LTRiYzctODdiMC1jMWYxZGQwNDQ4OGQiLCJ1cG4iOiJjMTIzQHBhb2x1LnNpdGUiLCJwdWlkIjoiMTAwMzMyMzBDNjVENEMzRSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMzMjMwYzY1ZDRjM2VAbGl2ZS5jb20iLCJzY3AiOiJhbGxmaWxlcy53cml0ZSBhbGxzaXRlcy5yZWFkIGFsbHNpdGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsLCJpcGFkZHIiOiI0MC43Mi43NC4xOTIifQ.UVk4MlFLYjFVOUpGT3VCOEJyUnRJUnBOYnhHeWJPSGJJMnhiM1duK2drWT0&ApiVersion=2.0
 
 重要通知,#genre#
 我们立足于,http://epg.112114.xyz/douyu/8759139
@@ -3886,7 +3887,7 @@ CCTV4,http://112.74.200.9:88/tv000000/m3u8.php?/migu/63178042120220815027$测试
 官方Q群2号,
 759732886,
 节目最近更新时间：,http://epg.112114.xyz/douyu/6566671
-2022.8.16,https://gcore.jsdelivr.net/gh/SiberiaApp/lue.github.io/youhuiquan.mp4
+2022.11.2,https://gcore.jsdelivr.net/gh/SiberiaApp/lue.github.io/youhuiquan.mp4
 福利优惠,#genre#
 省盒APP,https://gcore.jsdelivr.net/gh/SiberiaApp/lue.github.io/Shenghe.mp4
 TVHub官方省钱APP,https://gcore.jsdelivr.net/gh/SiberiaApp/lue.github.io/Shenghe.mp4
